@@ -25,6 +25,7 @@
     "@typescript-eslint/parser": "^5.37.0",
     "eslint": "^8.23.1",
     "eslint-plugin-react": "^7.31.8",
+    "expo-app-loading": "^2.1.0",
     "prettier": "^2.7.1",
     "ts-node-dev": "^2.0.0",
     "typescript": "^4.8.3"

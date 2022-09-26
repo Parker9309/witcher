@@ -21,6 +21,8 @@
     "jsx": "react-jsx"
   },
   "include": [
-    "src"
-  ]
+    "src",
+    "react-native.config.js"
+  ],
+  "extends": "expo/tsconfig.base"
 }
