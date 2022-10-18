@@ -34,4 +34,19 @@ export const styles = StyleSheet.create({
   backgroundImage: {
     flex: 1
   },
+  inputView: {
+    backgroundColor: "#FFFAFA",
+    borderRadius: 8,
+    width: "80%",
+    height: 45,
+    marginBottom: 20,
+    alignItems: "center",
+  },
+  
+  TextInput: {
+    height: 50,
+    flex: 1,
+    padding: 10,
+    marginLeft: 20,
+  }
 });
