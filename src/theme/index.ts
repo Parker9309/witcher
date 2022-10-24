@@ -8,7 +8,7 @@ export default {
     YELLOW: '#FFC700',
   },
   FONT_FAMILY: {
-    TITLE: '@assets/fonts/Thewitcher-jnOj.ttf',
+    TITLE: 'The-Witcher-Font',
   },
   FONT_SIZE: {
     SM: 14,
